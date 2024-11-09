@@ -1,14 +1,6 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = false
-	logallrefupdates = true
-[remote "origin"]
-	url = git@github.com:Palit-Invalid/sf_gitconfig.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "master"]
-	remote = origin
-	merge = refs/heads/master
 [user]
 	email = dimkaaaa1@gmail.com
 	name = Dmitry Fateev
+[alias]
+	history = log --graph
+
