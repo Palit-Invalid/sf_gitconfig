@@ -1,0 +1,7 @@
+credential.helper=wincred
+cola.startupmode=folder
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+alias.history=log --graph
