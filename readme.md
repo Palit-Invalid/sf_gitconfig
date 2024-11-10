@@ -7,7 +7,7 @@
 git clone git@github.com:Palit-Invalid/sf_gitconfig.git
 ```
 
-Предварительно импортируйте свой открытый SSH-ключ в свою учётную запись на [GitHub](https://github.com)
+Предварительно импортируйте свой открытый SSH-ключ в свою учётную запись на [GitHub](https://github.com/settings/keys)
 
 # Процесс внесения изменений
 Внесение изменений в главную ветку `master` запрещено!
